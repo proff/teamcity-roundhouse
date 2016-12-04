@@ -1,0 +1,10 @@
+/plugin/build/target
+/plugin/roundhouse-agent/roundhouse
+/plugin/roundhouse-agent/target
+/plugin/roundhouse-common/target
+/plugin/roundhouse-server/target
+/plugin/target
+/runner/.vs
+/runner/packages
+/runner/roundhouse/bin
+/runner/roundhouse/obj
