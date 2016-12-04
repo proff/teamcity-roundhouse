@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/build/build.iml" filepath="$PROJECT_DIR$/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundhouse.iml" filepath="$PROJECT_DIR$/roundhouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundhouse-agent/roundhouse-agent.iml" filepath="$PROJECT_DIR$/roundhouse-agent/roundhouse-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundhouse-common/roundhouse-common.iml" filepath="$PROJECT_DIR$/roundhouse-common/roundhouse-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundhouse-server/roundhouse-server.iml" filepath="$PROJECT_DIR$/roundhouse-server/roundhouse-server.iml" />
+    </modules>
+  </component>
+</project>
