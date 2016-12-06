@@ -4,7 +4,7 @@
     <name>roundhouse</name>
     <display-name>roundhouse</display-name>
     <version>@Version@</version>
-    <description>Plugin description</description>
+    <description>Provides support for roundhouse</description>
     <download-url>https://github.com/proff/teamcity-roundhouse</download-url>
     <email>proff@proff.email</email>
     <vendor>
